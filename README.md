@@ -24,7 +24,7 @@
 - 💹 [CryptoTracker-Frontend](https://github.com/Usmanashfaq1/CryptoTracker-Frontend) – Cryptocurrency price tracker (React)  
 - 🗄 [CryptoTracker-Backend](https://github.com/Usmanashfaq1/CryptoTracker-Backend) – Backend API with persistent users (Node.js)  
 - 🌦 [WeatherCLI-Node](https://github.com/Usmanashfaq1/WeatherCLI-Node) – Command-line weather app (Node.js)  
-- 🌐 [Node-RestAPI](https://github.com/Usmanashfaq1/Node-RestAPI) – REST API fundamentals (Node.js)  
+- 🌐 [Node-RestAPI-HttpModule](https://github.com/Usmanashfaq1/Node-RestAPI-HttpModule) – REST API fundamentals (Node.js HTTP Module)  
 
 ---
 
