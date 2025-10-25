@@ -17,8 +17,7 @@
 
 ---
 
-## 🌟 Highlighted Projects
-- 📚 [Quizaipro](https://github.com/Usmanashfaq1/quizaipro) – AI-powered quiz platform with Google Auth, Firebase, and Groq API integration (Next.js, TypeScript)  
+## 🌟 Highlighted Projects 
 - 🛒 [Urban-Threads](https://github.com/Usmanashfaq1/Urban-Threads) – Full-stack eCommerce app (Next.js, Supabase, Prisma, Tailwind)  
 - 🐾 [PetSync](https://github.com/Usmanashfaq1/PetSync) – Final Year Project: Pet care & e-commerce platform (Node.js, Express, MySQL, MVC, Auth)  
 - 💹 [CryptoTracker-Frontend](https://github.com/Usmanashfaq1/CryptoTracker-Frontend) – Cryptocurrency price tracker (React)  
